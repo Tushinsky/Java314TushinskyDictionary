@@ -1,7 +1,5 @@
 package word;
 
-import java.util.ArrayList;
-
 public class Word {
     private String value;// значение слова
     private String translation;// список, содержащий возможные переводы слова
